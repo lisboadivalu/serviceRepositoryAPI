@@ -2,7 +2,7 @@
 
 <h2>Project Description</h2>
 <p> 
-This is a RESTful API did using Laravel Framework. The goal of this project is study the Service-Repository Pattern and implement the project documentation
+This is a RESTful API did using Laravel Framework. The goal of this project is study the Service-Repository Pattern and implement the project documentation.
 </p>
 
 <h2>Install the project:</h2>
