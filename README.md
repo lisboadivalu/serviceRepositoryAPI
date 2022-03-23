@@ -1,4 +1,4 @@
-<h1>Service-Repository Pattern on Laravel<h1>
+<h1>Service-Repository Pattern on Laravel</h1>
 
 <h2>Project Description</h2>
 <p> 
