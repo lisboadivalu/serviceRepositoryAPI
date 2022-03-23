@@ -18,7 +18,7 @@ This is a RESTful API did using Laravel Framework. The goal of this project is s
     </ul>
 
 
-<h2> How to see the API documentatio?</h2>
+<h2> How to see the API documentation?</h2>
 <p> 
 After you ran the project, you need to access the request docs route.
 </p>
