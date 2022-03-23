@@ -20,7 +20,7 @@ This is a RESTful API did using Laravel Framework. The goal of this project is s
 
 <h2> How to see the API documentation?</h2>
 <p> 
-After you ran the project, you need to access the request docs route.
+After you ran the project, you need to access the request-docs route.
 </p>
 <p>
 http://localhost:8000/request-docs
